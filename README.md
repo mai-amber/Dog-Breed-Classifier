@@ -1,4 +1,4 @@
-# Dog-Breed-Classifier
+# Dog Breed Classifier
 
 ## Motivation
 So usually determining whether a given image is a human or a dog isn't too big of a challenge, but then again determining which kind of dog you're looking at can be! That's precisely what this project aimed to solve.
