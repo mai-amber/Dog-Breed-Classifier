@@ -13,13 +13,15 @@ The repository includes:
 2. The dog dataset
 3. The human dataset
 
-The second requirement of the project is a blog post, this is the link: https://maimon-amber.medium.com/is-it-a-dog-and-if-so-which-kind-a-cnn-classifier-can-help-you-decide-b997b8fbf941
+The second requirement of the project is a blog post, this is the link: 
+
+https://maimon-amber.medium.com/is-it-a-dog-and-if-so-which-kind-a-cnn-classifier-can-help-you-decide-b997b8fbf941
 
 ## Analysis
 
 My CNN from scratch got an accuracy of above 5%
 
-My CNN using ResNet50 gave a final accuracy of after 25 epochs
+My CNN using ResNet50 gave a final accuracy of 81% after 20 epochs
 
 ## Conclusion
 
