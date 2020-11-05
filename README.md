@@ -1,7 +1,7 @@
 # Dog Breed Classifier
 
 ## Motivation
-So usually determining whether a given image is a human or a dog isn't too big of a challenge, but then again determining which kind of dog you're looking at can be! That's precisely what this project aimed to solve.
+Determining whether a given image is a human or a dog isn't too big of a challenge, but then again determining which kind of dog you're looking at can be! That's precisely what this project aimed to solve.
 
 ## Project Definition
 This project is the capstone of the Udacity data science nanodegree. The aim was to create a program that chooses a dog breed when shown a dog, and points to the most similar dog breed when shown a human.
