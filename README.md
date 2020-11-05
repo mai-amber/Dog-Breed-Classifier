@@ -10,8 +10,8 @@ This project is the capstone of the Udacity data science nanodegree. The aim was
 The repository includes:
 
 1. A Jupyter notebook of the project code
-2. The dog dataset
-3. The human dataset
+2. An HTML file of the project code
+3. This README file
 
 The second requirement of the project is a blog post, this is the link: 
 
