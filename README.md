@@ -21,7 +21,9 @@ https://maimon-amber.medium.com/is-it-a-dog-and-if-so-which-kind-a-cnn-classifie
 
 My CNN from scratch got an accuracy of above 5%
 
-My CNN using ResNet50 gave a final accuracy of 81% after 20 epochs
+The CNN using VGG16 gave a final accuracy of 37% after 20 epochs
+
+My CNN using ResNet50 gave a final accuracy of 83% after 20 epochs
 
 ## Conclusion
 
